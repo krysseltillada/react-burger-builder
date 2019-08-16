@@ -1,5 +1,6 @@
 React Burger Builder Project. Applying what I've learned on the udemy course.<br>
-Source: https://www.udemy.com/react-the-complete-guide-incl-redux/<br><br>
+Udemy Course: https://www.udemy.com/react-the-complete-guide-incl-redux/<br>
+App Link: https://react-burger-builder-32710.firebaseapp.com/<br><br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
